@@ -4,10 +4,10 @@
 
 -> Languages: C/C++, Python, Kotlin, HTML and Javascript<br>
 
--> Frameworks / Libraries: <p>Frontend [ReactJS], 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend [ExpressJS], 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Machine-Learning [Numpy, Pandas, Sci-kit-learn, Matplotlib, Seaborn, Plotly], 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Socket programming [C, Kotlin],
+-> Frameworks / Libraries: <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend [ReactJS],<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend [ExpressJS],<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Machine-Learning [Numpy, Pandas, Sci-kit-learn, Matplotlib, Seaborn, Plotly],<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Socket programming [C, Kotlin],<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kotlin Compose</p>
 
 -> Others: Linux (Arch)<br>
