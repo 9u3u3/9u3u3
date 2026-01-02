@@ -1,13 +1,39 @@
--> Currently working on Beetle - a mobile IDE, code. build. ship. from phone<br>
+Hi, I'm Harsh
 
--> Learning Machine learning and Android development<br>
+Working on **Beetle**, a mobile-first IDE focused on enabling real development workflows on handheld devices.
 
--> Languages: C/C++, Python, Kotlin, HTML and Javascript<br>
+Areas of focus:
+- Machine Learning
+- Android Development
+- Developer Tooling
+- Systems Programming
 
--> Frameworks / Libraries: <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend [ReactJS],<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend [ExpressJS],<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Machine-Learning [Numpy, Pandas, Sci-kit-learn, Matplotlib, Seaborn, Plotly],<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Socket programming [C, Kotlin],<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kotlin Compose</p>
+Programming Languages:
+- C, C++
+- Python
+- Kotlin
+- JavaScript
+- HTML, CSS
 
--> Others: Linux (Arch)<br>
+Frameworks & UI Toolkits:
+- Web Frontend: React.js
+- Android UI: Jetpack Compose
+- Backend: Node.js (Express)
+- Web Full-stack: Next.js
+
+Machine Learning & Data:
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Plotly
+
+Systems & Networking:
+- Socket Programming (C, Kotlin)
+
+Platforms & Environments:
+- Linux (Arch)
+
+Architectures & Concepts:
+- Retrieval-Augmented Generation (RAG)
