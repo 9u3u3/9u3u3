@@ -2,11 +2,13 @@ Hi, I'm Harsh
 
 Working on **Beetle**, a mobile-first IDE focused on enabling real development workflows on handheld devices.
 
-Areas of focus:
+Interested in:
 - Machine Learning
+- Artificial Intelligence
+- Game Development
+- Cybersecurity
+- Networking
 - Android Development
-- Developer Tooling
-- Systems Programming
 
 Programming Languages:
 - C, C++
